@@ -7,7 +7,9 @@ const Home = () => {
     <View>
       <Titulo/>
       <Text>Tela principal</Text>
-      <View></View>
+      <View>
+        
+      </View>
       <TouchableOpacity>
         <Text>
           Inciar
